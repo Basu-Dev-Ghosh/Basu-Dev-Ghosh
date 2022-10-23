@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Basu</h1>
 <h3 align="center">A passionate FULL STACK DEVLOPER from India</h3>
 
-<img  align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hahce2ucgsvkg9xz2qcsmj59061wnhqixxahirhu&rid=giphy.gif&ct=g">
+<img  align="right" alt="Coding" width="150" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hahce2ucgsvkg9xz2qcsmj59061wnhqixxahirhu&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basu-dev-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="basu-dev-ghosh" /> </p>
